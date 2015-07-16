@@ -11,6 +11,7 @@
 #include <signal.h>
 #include <syslog.h>
 #include <stdio.h>
+#include <unistd.h>
 #include "stdlib.h"
 #include <iostream>
 #include "loadbalance.hh"
